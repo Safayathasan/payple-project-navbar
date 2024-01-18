@@ -1,0 +1,50 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.navbar ul li{
+list-style-type: none;
+display: inline;
+}
+
+
+   header{
+    background-image: url(Screenshot_7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+  
+
+   .navbar ul li:first-child {
+    font-size: 30px;
+    padding-left: 180px;
+    
+ }
+ 
+ .navbar ul li:nth-child(2) {
+   padding-left: 200px;  
+ }
+ .navbar ul li:nth-child(3) {
+    padding-left: 40px; 
+ }
+ .navbar ul li:nth-child(4) {
+     padding-left: 40px;
+ }
+ .navbar ul li:nth-child(5) {
+     padding-left: 40px;
+ }
+ .navbar ul li:nth-child(6) {
+     padding-left: 120px;
+ }
+ .navbar ul li:nth-child(7) {
+     padding-left: 10px;
+ }
+ .navbar ul li:nth-child(6) button {
+   padding: 4px 18px;
+   border-radius: 15px;
+   
+}
+.navbar ul li:nth-child(7) button{
+  padding: 4px 18px;
+  border-radius: 15px;
+}
